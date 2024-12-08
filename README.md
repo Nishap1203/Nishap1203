@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nishap1203
 - 👀 I’m interested in creating creative websites
-- 🎨 Frontend: HTML, CSS, JavaScript,Bootstrap,Next.js and React.js.
+- 🎨 Frontend: HTML, CSS, JavaScript,Bootstrap,Tailwind css,React.js.
+- 📝 Database : SQL, MONGODB
 - 📱 UI/UX: Familiar with Figma
 - 📝 Version Control: Git/GitHub
 - 💬 Communication: Effective team collaboration.
